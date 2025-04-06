@@ -1,0 +1,6 @@
+matplotlib==3.9.2
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1713250518406/work
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp312-cp312-linux_x86_64.whl#sha256=1d700f51d8b4fa684d858c9e3b56b1656bc5c82b6b79ff08d4e3b491c430059f
+pandas @ file:///croot/pandas_1718308974269/work/dist/pandas-2.2.2-cp312-cp312-linux_x86_64.whl#sha256=92c518f7e09edd50b5caa5862636c51d6a29391803f3ada62f68aa52f27d8f92
+pgmpy @ file:///home/conda/feedstock_root/build_artifacts/pgmpy_1738875568688/work
+seaborn @ file:///croot/seaborn_1718302919398/work
