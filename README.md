@@ -9,7 +9,7 @@ The [UCI Student Performance dataset](https://archive.ics.uci.edu/dataset/320/st
 ## Bayesian Networks
 The networks were constructed with three different techniques:
 
-1.  **PC Algorithm (Spirtes et al., 1991):**
+1.  **PC Algorithm (Spirtes et al., 2000):**
     * A constraint-based structure learning algorithm that infers the network structure based on conditional independence tests.
     * Strengths: Can handle large datasets and identify causal relationships.
     * Weaknesses: Sensitive to the choice of significance level and may produce incorrect structures with limited data.
